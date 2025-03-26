@@ -355,25 +355,25 @@ The command we shall use to decipher our traffic is as follows.
 
 `airdecap-ng -e wifi-mobile -p $PASSWORD -- '-01.cap'` 
 
-###  1. `airdecap-ng` :
+1. `airdecap-ng` :
 
 - The tool decrypts WEP, WPA, or WPA2-encrypted packet captures (`.cap` files) based on the network's encryption key or passphrase.
 
-###  2. `e wifi-mobile` :
+2. `e wifi-mobile` :
 
 - Specifies the  ESSID (network name)  of the target Wi-Fi network.
 - In this case, the ESSID is `wifi-mobile`. It helps the tool identify which network's packets to decrypt, especially when multiple networks are present in the capture file.
 
-###  3. `p $PASSWORD` :
+3. `p $PASSWORD` :
 
 -  `p`  specifies the  password (or passphrase)  of the target Wi-Fi network.
 -  `$PASSWORD`  is a placeholder variable that stores the actual Wi-Fi passphrase. If the variable contains the correct passphrase, airdecap-ng will use it to decrypt the encrypted packets in the capture file.
 
-###  4. `-` :
+4. `-` :
 
 - The `-` signals the end of options. Anything after `-` is treated as an argument (like file names), even if it starts with a ``.
 
-###  5. `'-01.cap'` :
+5. `'-01.cap'` :
 
 - The name of the capture file that contains the encrypted packets to decrypt.
 - The file name `01.cap` starts with a dash (``), which can confuse tools into interpreting it as a flag. Using `-` or prefixing the file name with `./` ensures it's treated as a file.
@@ -412,32 +412,32 @@ network={
 }PHPSESSID=97qfe2c37hso8725c1p5reft7s
 ```
 
-###  1. `network={ ... }` :
+1. `network={ ... }` :
 
 - Defines a network block, which contains all the settings required to connect to a specific Wi-Fi network.
 
-###  2. `ssid="wifi-mobile"` :
+2. `ssid="wifi-mobile"` :
 
 - Specifies the  SSID (Service Set Identifier)  of the Wi-Fi network.
 - In this case, the SSID is `wifi-mobile`.
 
-###  3. `psk="$PASSWORD"` :
+3. `psk="$PASSWORD"` :
 
 - Specifies the  pre-shared key (PSK) , which is the password for the Wi-Fi network.
 -  `$PASSWORD`  is a placeholder variable. Replace it with the actual passphrase (e.g., `psk="mypassword123"`).
 - The PSK is used for WPA/WPA2-Personal authentication.
 
-###  4. `scan_ssid=1` :
+4. `scan_ssid=1` :
 
 - Tells the device to actively  scan for the network , even if the SSID is hidden.
 - If the access point does not broadcast its SSID, setting this to `1` enables the client to detect and connect to it.
 
-###  5. `key_mgmt=WPA-PSK` :
+5. `key_mgmt=WPA-PSK` :
 
 - Specifies the  key management protocol  used by the network.
 -  `WPA-PSK`  indicates WPA/WPA2 with a Pre-Shared Key (PSK) for authentication.
 
-###  6. `proto=WPA2` :
+6. `proto=WPA2` :
 
 - Specifies the  protocol  to be used for encryption and authentication.
 -  `WPA2`  is used here, which is a secure protocol based on AES encryption.
@@ -455,17 +455,17 @@ we have our flag as shown below.
 
  For this challenge we shall use [arp-scan](https://www.kali.org/tools/arp-scan/) to scan the network for more hosts though the interface we have connected to the network using the commmand `sudo arp-scan -I wlan2 -l`  
 
-###  `arp-scan` :
+`arp-scan` :
 
 -  `arp-scan`  is a tool used to identify all active devices on a local network by sending  ARP (Address Resolution Protocol)  requests.
 - It works at the data link layer (Layer 2), making it highly effective for discovering devices on the same subnet.
 
-###  `I wlan2` :
+ `I wlan2` :
 
 -  `I`  specifies the network interface to use for the scan.
 - In this case, `wlan2` is the wireless interface you want to scan with.
 
-###  `l` :
+`l` :
 
 -  `l`  (lowercase "L") tells  `arp-scan`  to scan the  local subnet  (determined by the interface's IP address and subnet mask).
 - For example, if the interface `wlan2` is on `192.168.1.0/24`, it will scan all IPs in that range (from `192.168.1.1` to `192.168.1.254`).
@@ -516,55 +516,55 @@ wpa_passphrase=12345678
 
 The  above file contents means the following
 
-###  1. `interface=wlan1` 
+1. `interface=wlan1` 
 
 - Specifies the  wireless interface  to be used for hosting the access point.
 - In this case, the interface is  `wlan1` . This must be a wireless adapter that supports monitor and AP modes.
 
-###  2. `driver=nl80211` 
+2. `driver=nl80211` 
 
 - Indicates the  driver  to be used by hostapd.
 -  `nl80211`  is the standard driver interface used for modern Wi-Fi adapters with Linux.
 
-###  3. `hw_mode=g` 
+3. `hw_mode=g` 
 
 - Defines the  Wi-Fi mode  for the access point:
     -  `g` : Operates on the 2.4 GHz band, supporting 802.11g (and backward-compatible 802.11b) devices.
     - Other options could include `a` (5 GHz) or `n` (802.11n for mixed bands).
 
-###  4. `channel=1` 
+4. `channel=1` 
 
 - Specifies the  Wi-Fi channel  to use for the access point.
 -  Channel 1  operates on the 2.4 GHz frequency band. The channel you choose can affect performance and interference.
 
-###  5. `ssid=wifi-offices` 
+5. `ssid=wifi-offices` 
 
 - Sets the  SSID (Service Set Identifier)  for the fake access point.
 - The AP will broadcast itself with the name  `wifi-offices` , imitating a real network.
 
-###  6. `mana_wpaout=hostapd.hccapx` 
+6. `mana_wpaout=hostapd.hccapx` 
 
 - Configures the output file for  captured WPA/WPA2 handshakes .
 - The captured handshake data will be saved to the file  `hostapd.hccapx` , which can later be used for password cracking (e.g., with tools like Hashcat).
 
-###  7. `wpa=2` 
+7. `wpa=2` 
 
 - Specifies the  WPA protocol version  to be used:
     -  `2` : Configures WPA2 (more secure and commonly used).
     -  `1` : Would configure WPA (less secure and outdated).
 
-###  8. `wpa_key_mgmt=WPA-PSK` 
+8. `wpa_key_mgmt=WPA-PSK` 
 
 - Defines the  key management protocol :
     -  `WPA-PSK` : Stands for  WPA Pre-Shared Key , the standard for personal Wi-Fi networks where a single password is shared among users.
 
-###  9. `wpa_pairwise=TKIP CCMP` 
+9. `wpa_pairwise=TKIP CCMP` 
 
 - Specifies the  encryption protocols  to be used for securing data:
     -  `TKIP` : Temporal Key Integrity Protocol (older and less secure, for backward compatibility).
     -  `CCMP` : Counter Mode Cipher Block Chaining Message Authentication Code Protocol (stronger encryption based on AES).
 
-###  10. `wpa_passphrase=12345678` 
+10. `wpa_passphrase=12345678` 
 
 - Sets the  Wi-Fi password (passphrase)  for the rogue access point.
 - The password for this network is  `12345678` .
@@ -584,7 +584,7 @@ cat hostapd.hccapx | awk {'print $3'} > hostapd.22000
 
 ```
 
-### Breakdown:
+Breakdown:
 
 1.  `cat hostapd.hccapx` 
     - Reads (`concatenates`) the contents of the file `hostapd.hccapx` and outputs it.
@@ -753,7 +753,7 @@ wpa_passphrase=12345678
 
 you may be wondering why we had to check MFP, let me break it down to you.  MFP (Management Frame Protection)  is a wireless network feature designed to secure  management frames  from being tampered with or spoofed. When  MFP is set to false  (or disabled), the network becomes more vulnerable to certain types of wireless attacks.
 
-###  When MFP is False: Potential Vulnerabilities 
+When MFP is False: Potential Vulnerabilities 
 
 1.  Deauthentication and Disassociation Attacks 
     - Attackers can send  spoofed deauthentication or disassociation frames  to disconnect clients from the network (e.g., using tools like  aireplay-ng ).
