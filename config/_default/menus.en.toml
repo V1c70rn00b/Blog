@@ -16,7 +16,7 @@
   weight = 20
 
 [[main]]
-  name = "Areas of Interest"
+  name = "This is me"
   parent = "About"
   pageRef="about"
   weight = 20

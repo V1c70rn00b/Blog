@@ -9,7 +9,17 @@
     <managingEditor>victormaina2024@outlook.com (Victor Mwai)</managingEditor>
     <webMaster>victormaina2024@outlook.com (Victor Mwai)</webMaster>
     <copyright>© 2025 Victor Mwai</copyright>
-    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OSINT(Exercise 26)</title>
+      <link>http://localhost:1313/posts/osintexercise-26/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-26/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-26/featured.jpg" />
+    </item>
     
     <item>
       <title>OSINT(Exercise 22)</title>

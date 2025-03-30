@@ -18,11 +18,13 @@ I am not the loudest in the room, nor the fastest on the keyboard. But in the si
 
 ## ~/Areas of interest$
 
-  `Web Application Security`
-  `Digital Forensics`
-  `Open Source Intelligence`
-  `Cloud`
-  `Networking`
+  * [x] `Red team`
+  * [x] `Web Application Security`
+  * [x] `Digital Forensics`
+  * [x] `Open Source Intelligence`
+  * [x] `Cloud`
+  * [x] `Networking`
+  
 
 
 
