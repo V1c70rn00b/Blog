@@ -44,7 +44,7 @@ and to verify if truly it was the book, I searched for the words we identified a
 
 ![image.png](image%202.png)
 
-`Answer: Sara Sheridan’s book, *The Fair Botanists*.`
+`Answer: Sara Sheridan’s book, The Fair Botanists.`
 
 ## Identify the train model
 
