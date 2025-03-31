@@ -122,6 +122,6 @@ With that we have been able to find our hotel as shown below.
 
 ![image.png](image%2014.png)
 
-the name of the hotel is **`Ibis Styles Den Haag Scheveningen`** 
+the name of the hotel is  `Ibis Styles Den Haag Scheveningen`  
 
-`Answer: **Ibis Styles Den Haag Scheveningen**`
+`Answer:  Ibis Styles Den Haag Scheveningen `
