@@ -1,10 +1,9 @@
 ---
 title: "OSINT(Exercise 24)"
-date: 2025-03-24
+date: 2025-03-26
 description: This is a writeup on OSINT EXERCISE 24 from Sofia Santos' OSINT analysis and exercises.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
 summary: "credit to Sofia Santos" # Here you can write a small summary of the post if needed
-tags: [INTELLIGENCE]
 categories: [OSINT]
 ---
 # Exercise 24

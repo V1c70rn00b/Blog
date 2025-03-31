@@ -4,7 +4,6 @@ date: 2025-03-10
 description: This is a writeup on OSINT EXERCISE 9 from Sofia Santos' OSINT analysis and exercises.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
 summary: "credit to Sofia Santos" # Here you can write a small summary of the post if needed
-tags: [GEOLOCATION]
 categories: [OSINT]
 ---
 # Exercise 9
