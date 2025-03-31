@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>INTELLIGENCE on v1c70r_n00b'$ Blog</title><link>https://v1c70rn00b.github.io/tags/intelligence/</link><description>Recent content in INTELLIGENCE on v1c70r_n00b'$ Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>victormaina2024@outlook.com (Victor Mwai)</managingEditor><webMaster>victormaina2024@outlook.com (Victor Mwai)</webMaster><copyright>© 2025 Victor Mwai</copyright><lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://v1c70rn00b.github.io/tags/intelligence/index.xml" rel="self" type="application/rss+xml"/><item><title>OSINT(Exercise 23)</title><link>https://v1c70rn00b.github.io/posts/osintexercise-23/</link><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate><author>victormaina2024@outlook.com (Victor Mwai)</author><guid>https://v1c70rn00b.github.io/posts/osintexercise-23/</guid><description>credit to Sofia Santos</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://v1c70rn00b.github.io/posts/osintexercise-23/featured.jpg"/></item><item><title>OSINT(Exercise 24)</title><link>https://v1c70rn00b.github.io/posts/osintexercise-24/</link><pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate><author>victormaina2024@outlook.com (Victor Mwai)</author><guid>https://v1c70rn00b.github.io/posts/osintexercise-24/</guid><description>credit to Sofia Santos</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://v1c70rn00b.github.io/posts/osintexercise-24/featured.webp"/></item><item><title>OSINT(Exercise 20)</title><link>https://v1c70rn00b.github.io/posts/osintexercise-20/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><author>victormaina2024@outlook.com (Victor Mwai)</author><guid>https://v1c70rn00b.github.io/posts/osintexercise-20/</guid><description>credit to Sofia Santos</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://v1c70rn00b.github.io/posts/osintexercise-20/featured.png"/></item><item><title>OSINT(Exercise 17)</title><link>https://v1c70rn00b.github.io/posts/osintexercise-17/</link><pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate><author>victormaina2024@outlook.com (Victor Mwai)</author><guid>https://v1c70rn00b.github.io/posts/osintexercise-17/</guid><description>credit to Sofia Santos</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://v1c70rn00b.github.io/posts/osintexercise-17/featured.png"/></item><item><title>OSINT(Exercise 11)</title><link>https://v1c70rn00b.github.io/posts/osintexercise-11/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><author>victormaina2024@outlook.com (Victor Mwai)</author><guid>https://v1c70rn00b.github.io/posts/osintexercise-11/</guid><description>credit to Sofia Santos</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://v1c70rn00b.github.io/posts/osintexercise-11/featured.png"/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>INTELLIGENCE on v1c70r_n00b&#39;$ Blog</title>
+    <link>http://localhost:1313/tags/intelligence/</link>
+    <description>Recent content in INTELLIGENCE on v1c70r_n00b&#39;$ Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>victormaina2024@outlook.com (Victor Mwai)</managingEditor>
+    <webMaster>victormaina2024@outlook.com (Victor Mwai)</webMaster>
+    <copyright>© 2025 Victor Mwai</copyright>
+    <lastBuildDate>Mon, 24 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/intelligence/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OSINT(Exercise 23)</title>
+      <link>http://localhost:1313/posts/osintexercise-23/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-23/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-23/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>OSINT(Exercise 24)</title>
+      <link>http://localhost:1313/posts/osintexercise-24/</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-24/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-24/featured.webp" />
+    </item>
+    
+    <item>
+      <title>OSINT(Exercise 20)</title>
+      <link>http://localhost:1313/posts/osintexercise-20/</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-20/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-20/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSINT(Exercise 17)</title>
+      <link>http://localhost:1313/posts/osintexercise-17/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-17/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-17/featured.png" />
+    </item>
+    
+    <item>
+      <title>OSINT(Exercise 11)</title>
+      <link>http://localhost:1313/posts/osintexercise-11/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-11/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-11/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
