@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "v1c70r_n00b'$ Blog"
+title = "v1c70r_n00b'$ Blog ⚔︎⛊"
 
 [params]
   displayName = "EN"
@@ -12,7 +12,7 @@ title = "v1c70r_n00b'$ Blog"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
    description = "Welcome to the land of geeks"
-   copyright = "&copy; 2023 Victor Mwai. Some Rights Reserved."
+   copyright = "&copy; 2023 - 2025 𝓱𝐚ĆⓀ𝑒я Victor Mwai. "
 
  [params.author]
    name = "Victor Mwai"
