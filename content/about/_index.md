@@ -4,7 +4,6 @@ description: "A little about me"
 date: 2024-07-30
 draft: false
 summary: "portfolio"
-tags: ["About me"]
 ---
 
 ## ~/Whoami$ 

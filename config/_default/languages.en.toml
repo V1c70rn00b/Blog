@@ -12,11 +12,11 @@ title = "v1c70r_n00b'$ Blog"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
    description = "Welcome to the land of geeks"
-  # copyright = "&copy; 2023 Victor Mwai. All Rights Reserved."
+   copyright = "&copy; 2023-2025 Victor Mwai. Some Rights Reserved."
 
  [params.author]
    name = "Victor Mwai"
-   email = "victormaina2024@outlook.com"
+   email = "mwaivictor04@gmail.com"
    image = "profile.png"
    imageQuality = 96
    headline = """What if changing the world was just about being here? By showing up no matter how many times we get told we don’t belong? By staying true even when we are shamed into being false? By believing in ourselves even when we are too different? And if we all held on to that, if we refuse to budge and fall in line. if we stood our ground for long enough, just maybe the world can’t help but change around us
@@ -28,7 +28,7 @@ title = "v1c70r_n00b'$ Blog"
 
 Isaiah 6:8"""
    links = [
-#     { email = "mailto:victormaina2024@outlook.com" },
+     { email = "mailto:mwaivictor04@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

@@ -6,16 +6,26 @@
     <description>Recent content on v1c70r_n00b&#39;$ Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>victormaina2024@outlook.com (Victor Mwai)</managingEditor>
-    <webMaster>victormaina2024@outlook.com (Victor Mwai)</webMaster>
-    <copyright>© 2025 Victor Mwai</copyright>
-    <lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>mwaivictor04@gmail.com (Victor Mwai)</managingEditor>
+    <webMaster>mwaivictor04@gmail.com (Victor Mwai)</webMaster>
+    <copyright>&amp;copy; 2023-2025 Victor Mwai. Some Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OSINT(Exercise 31)</title>
+      <link>http://localhost:1313/posts/osintexercise-31/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
+      <guid>http://localhost:1313/posts/osintexercise-31/</guid>
+      <description>credit to Sofia Santos</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-31/featured.png" />
+    </item>
     
     <item>
       <title>OSINT(Exercise 29)</title>
       <link>http://localhost:1313/posts/osintexercise-29/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-29/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-29/featured.jpg" />
@@ -25,7 +35,7 @@
       <title>OSINT(Exercise 27)</title>
       <link>http://localhost:1313/posts/osintexercise-27/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-27/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-27/featured.png" />
@@ -35,7 +45,7 @@
       <title>OSINT(Exercise 28)</title>
       <link>http://localhost:1313/posts/osintexercise-28/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-28/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-28/featured.jpg" />
@@ -45,7 +55,7 @@
       <title>OSINT(Exercise 26)</title>
       <link>http://localhost:1313/posts/osintexercise-26/</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-26/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-26/featured.jpg" />
@@ -55,7 +65,7 @@
       <title>OSINT(Exercise 25)</title>
       <link>http://localhost:1313/posts/osintexercise-25/</link>
       <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-25/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-25/featured.webp" />
@@ -65,7 +75,7 @@
       <title>OSINT(Exercise 24)</title>
       <link>http://localhost:1313/posts/osintexercise-24/</link>
       <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-24/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-24/featured.webp" />
@@ -75,7 +85,7 @@
       <title>OSINT(Exercise 23)</title>
       <link>http://localhost:1313/posts/osintexercise-23/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-23/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-23/featured.jpg" />
@@ -85,7 +95,7 @@
       <title>OSINT(Exercise 22)</title>
       <link>http://localhost:1313/posts/osintexercise-22/</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-22/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-22/featured.png" />
@@ -95,7 +105,7 @@
       <title>OSINT(Exercise 20)</title>
       <link>http://localhost:1313/posts/osintexercise-20/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-20/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-20/featured.png" />
@@ -105,7 +115,7 @@
       <title>OSINT(Exercise 21)</title>
       <link>http://localhost:1313/posts/osintexercise-21/</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-21/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-21/featured.png" />
@@ -115,7 +125,7 @@
       <title>OSINT(Exercise 19)</title>
       <link>http://localhost:1313/posts/osintexercise-19/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-19/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-19/featured.png" />
@@ -125,7 +135,7 @@
       <title>OSINT(Exercise 18)</title>
       <link>http://localhost:1313/posts/osintexercise-18/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-18/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-18/featured.webp" />
@@ -135,7 +145,7 @@
       <title>OSINT(Exercise 17)</title>
       <link>http://localhost:1313/posts/osintexercise-17/</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-17/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-17/featured.png" />
@@ -145,7 +155,7 @@
       <title>OSINT(Exercise 16)</title>
       <link>http://localhost:1313/posts/osintexercise-16/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-16/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-16/featured.jpeg" />
@@ -155,7 +165,7 @@
       <title>OSINT(Exercise 15)</title>
       <link>http://localhost:1313/posts/osintexercise-15/</link>
       <pubDate>Sat, 15 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-15/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-15/featured.png" />
@@ -165,7 +175,7 @@
       <title>OSINT(Exercise 14)</title>
       <link>http://localhost:1313/posts/osintexercise-14/</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-14/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-14/featured.png" />
@@ -175,7 +185,7 @@
       <title>OSINT(Exercise 12)</title>
       <link>http://localhost:1313/posts/osintexercise-12/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-12/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-12/featured.webp" />
@@ -185,7 +195,7 @@
       <title>OSINT(Exercise 11)</title>
       <link>http://localhost:1313/posts/osintexercise-11/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-11/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-11/featured.png" />
@@ -195,7 +205,7 @@
       <title>OSINT(Exercise 10)</title>
       <link>http://localhost:1313/posts/osintexercise-10/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-10/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-10/featured.webp" />
@@ -205,7 +215,7 @@
       <title>OSINT(Exercise 9)</title>
       <link>http://localhost:1313/posts/osintexercise-9/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-9/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-9/featured.png" />
@@ -215,7 +225,7 @@
       <title>OSINT(Exercise 8)</title>
       <link>http://localhost:1313/posts/osintexercise-8/</link>
       <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-8/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-8/featured.webp" />
@@ -225,7 +235,7 @@
       <title>OSINT(Exercise 6)</title>
       <link>http://localhost:1313/posts/osintexercise-6/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-6/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-6/featured.png" />
@@ -235,7 +245,7 @@
       <title>OSINT(Exercise 7)</title>
       <link>http://localhost:1313/posts/osintexercise-7/</link>
       <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-7/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-7/featured.png" />
@@ -245,7 +255,7 @@
       <title>OSINT(Exercise 5)</title>
       <link>http://localhost:1313/posts/osintexercise-5/</link>
       <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-5/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-5/featured.webp" />
@@ -255,7 +265,7 @@
       <title>OSINT(Exercise 4)</title>
       <link>http://localhost:1313/posts/osintexercise-4/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-4/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-4/featured.jpg" />
@@ -265,7 +275,7 @@
       <title>OSINT(Exercise 3)</title>
       <link>http://localhost:1313/posts/osintexercise-3/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-3/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-3/featured.webp" />
@@ -275,7 +285,7 @@
       <title>OSINT(Exercise 1)</title>
       <link>http://localhost:1313/posts/osintexercise-1/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-1/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-1/featured.png" />
@@ -285,7 +295,7 @@
       <title>OSINT(Exercise 2)</title>
       <link>http://localhost:1313/posts/osintexercise-2/</link>
       <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/osintexercise-2/</guid>
       <description>credit to Sofia Santos</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/osintexercise-2/featured.png" />
@@ -295,7 +305,7 @@
       <title>WIFI HaCKING</title>
       <link>http://localhost:1313/posts/wifi-hacking/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/wifi-hacking/</guid>
       <description>Wireless Fidelity</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/wifi-hacking/featured.jpg" />
@@ -305,7 +315,7 @@
       <title>XEN</title>
       <link>http://localhost:1313/posts/xen/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/xen/</guid>
       <description>XEN is an AD lab simulation.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/xen/featured.png" />
@@ -315,7 +325,7 @@
       <title>P.O.O</title>
       <link>http://localhost:1313/posts/p.o.o/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/p.o.o/</guid>
       <description>Professional Offensive Operations</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/p.o.o/featured.png" />
@@ -325,7 +335,7 @@
       <title>The Musician</title>
       <link>http://localhost:1313/posts/the-musician/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/the-musician/</guid>
       <description>Some hex headers to rectify</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-musician/featured.jpg" />
@@ -335,7 +345,7 @@
       <title>Maldoc</title>
       <link>http://localhost:1313/posts/maldoc/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/maldoc/</guid>
       <description>Credit CTFROOM</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/maldoc/featured.jpg" />
@@ -345,7 +355,7 @@
       <title>Unified</title>
       <link>http://localhost:1313/posts/unified/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/unified/</guid>
       <description>Unity is key</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/unified/featured.png" />
@@ -355,7 +365,7 @@
       <title>Vaccine</title>
       <link>http://localhost:1313/posts/vaccine/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/vaccine/</guid>
       <description>Some medicine for you.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vaccine/featured.jpg" />
@@ -365,7 +375,7 @@
       <title>Archetype</title>
       <link>http://localhost:1313/posts/archetype/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/archetype/</guid>
       <description>Archetype Stuff</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/archetype/featured.png" />
@@ -375,7 +385,7 @@
       <title>Three</title>
       <link>http://localhost:1313/posts/three/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/three/</guid>
       <description>Why did the S3 bucket break up with the EC2 instance?  Because it found someone with less latency! 😄</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/three/featured.png" />
@@ -385,7 +395,7 @@
       <title>Responder</title>
       <link>http://localhost:1313/posts/responder/</link>
       <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/responder/</guid>
       <description>Why did the hacker bring a map to the server? Because they were trying to locate the LFI and remotely call the RFI! 😄</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/responder/featured.jpg" />
@@ -395,7 +405,7 @@
       <title>Crocodile</title>
       <link>http://localhost:1313/posts/crocodile/</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/crocodile/</guid>
       <description>Croco, why did the FTP server break up with the client? Because it just couldn&amp;rsquo;t handle all the passive aggression! 😄</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/crocodile/featured.jpg" />
@@ -405,7 +415,7 @@
       <title>Sequel</title>
       <link>http://localhost:1313/posts/sequel/</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/sequel/</guid>
       <description>Why did the database administrator break up with the SQL query? Because it had too many joins! 😄</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/sequel/featured.png" />
@@ -415,7 +425,7 @@
       <title>Appointment</title>
       <link>http://localhost:1313/posts/appointment/</link>
       <pubDate>Mon, 16 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/appointment/</guid>
       <description>Waiting on the line.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/appointment/featured.jpg" />
@@ -425,7 +435,7 @@
       <title>Reedemer</title>
       <link>http://localhost:1313/posts/reedemer/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/reedemer/</guid>
       <description>Reedeming yourself</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/reedemer/featured.png" />
@@ -435,7 +445,7 @@
       <title>Dancing</title>
       <link>http://localhost:1313/posts/dancing/</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/dancing/</guid>
       <description>Only the flexible to dance.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dancing/featured.png" />
@@ -445,7 +455,7 @@
       <title>Fawn</title>
       <link>http://localhost:1313/posts/fawn/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/fawn/</guid>
       <description>FTP</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fawn/featured.jpg" />
@@ -455,7 +465,7 @@
       <title>Meow</title>
       <link>http://localhost:1313/posts/meow/</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/meow/</guid>
       <description>Meow, meow</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/meow/featured.jpg" />
@@ -465,7 +475,7 @@
       <title>Block Chain</title>
       <link>http://localhost:1313/posts/block-chain/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <author>victormaina2024@outlook.com (Victor Mwai)</author>
+      <author>mwaivictor04@gmail.com (Victor Mwai)</author>
       <guid>http://localhost:1313/posts/block-chain/</guid>
       <description>Web 3.0</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/block-chain/featured.jpg" />
