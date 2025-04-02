@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tier2 on v1c70r_n00b&#39;$ Blog ⚔︎⛊</title>
-    <link>http://localhost:1313/categories/tier2/</link>
+    <link>http://localhost:63915/categories/tier2/</link>
     <description>Recent content in Tier2 on v1c70r_n00b&#39;$ Blog ⚔︎⛊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mwaivictor04@gmail.com (Victor Mwai)</managingEditor>
     <webMaster>mwaivictor04@gmail.com (Victor Mwai)</webMaster>
     <copyright>&amp;copy; 2023 - 2025 𝓱𝐚ĆⓀ𝑒я Victor Mwai. </copyright>
-    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tier2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:63915/categories/tier2/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Unified</title>
-      <link>http://localhost:1313/posts/unified/</link>
+      <link>http://localhost:63915/posts/unified/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:1313/posts/unified/</guid>
+      <guid>http://localhost:63915/posts/unified/</guid>
       <description>Unity is key</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/unified/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63915/posts/unified/featured.png" />
     </item>
     
     <item>
       <title>Vaccine</title>
-      <link>http://localhost:1313/posts/vaccine/</link>
+      <link>http://localhost:63915/posts/vaccine/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:1313/posts/vaccine/</guid>
+      <guid>http://localhost:63915/posts/vaccine/</guid>
       <description>Some medicine for you.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vaccine/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63915/posts/vaccine/featured.jpg" />
     </item>
     
     <item>
       <title>Archetype</title>
-      <link>http://localhost:1313/posts/archetype/</link>
+      <link>http://localhost:63915/posts/archetype/</link>
       <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:1313/posts/archetype/</guid>
+      <guid>http://localhost:63915/posts/archetype/</guid>
       <description>Archetype Stuff</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/archetype/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63915/posts/archetype/featured.png" />
     </item>
     
   </channel>

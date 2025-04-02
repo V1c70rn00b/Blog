@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CTF on v1c70r_n00b&#39;$ Blog ⚔︎⛊</title>
-    <link>http://localhost:1313/tags/ctf/</link>
+    <link>http://localhost:63915/tags/ctf/</link>
     <description>Recent content in CTF on v1c70r_n00b&#39;$ Blog ⚔︎⛊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mwaivictor04@gmail.com (Victor Mwai)</managingEditor>
     <webMaster>mwaivictor04@gmail.com (Victor Mwai)</webMaster>
     <copyright>&amp;copy; 2023 - 2025 𝓱𝐚ĆⓀ𝑒я Victor Mwai. </copyright>
-    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:63915/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Musician</title>
-      <link>http://localhost:1313/posts/the-musician/</link>
+      <link>http://localhost:63915/posts/the-musician/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:1313/posts/the-musician/</guid>
+      <guid>http://localhost:63915/posts/the-musician/</guid>
       <description>Some hex headers to rectify</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-musician/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63915/posts/the-musician/featured.jpg" />
     </item>
     
     <item>
       <title>Maldoc</title>
-      <link>http://localhost:1313/posts/maldoc/</link>
+      <link>http://localhost:63915/posts/maldoc/</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:1313/posts/maldoc/</guid>
+      <guid>http://localhost:63915/posts/maldoc/</guid>
       <description>Credit CTFROOM</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/maldoc/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63915/posts/maldoc/featured.jpg" />
     </item>
     
   </channel>
