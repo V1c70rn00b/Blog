@@ -53,7 +53,7 @@ I am not the loudest in the room, nor the fastest on the keyboard. But in the si
 
 ## ~/Skills
 ### Technical Skills
-- 🎯 Penteration testing
+- 🎯 Penetration testing
 - 🎯 Vulnerability Assessment
 - 🎯 Digital Forensics
 - 🎯 Log analysis
