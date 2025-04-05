@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beginner on v1c70r_n00b&#39;$ Blog ⚔︎⛊</title>
-    <link>http://localhost:63915/tags/beginner/</link>
+    <link>http://localhost:1313/tags/beginner/</link>
     <description>Recent content in Beginner on v1c70r_n00b&#39;$ Blog ⚔︎⛊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mwaivictor04@gmail.com (Victor Mwai)</managingEditor>
     <webMaster>mwaivictor04@gmail.com (Victor Mwai)</webMaster>
-    <copyright>&amp;copy; 2023 - 2025 𝓱𝐚ĆⓀ𝑒я Victor Mwai. </copyright>
-    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:63915/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 𝓱𝐚ĆⓀ𝑒я | All rights reserved.</copyright>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>P.O.O</title>
-      <link>http://localhost:63915/posts/p.o.o/</link>
+      <link>http://localhost:1313/posts/p.o.o/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/posts/p.o.o/</guid>
+      <guid>http://localhost:1313/posts/p.o.o/</guid>
       <description>Professional Offensive Operations</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63915/posts/p.o.o/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/p.o.o/featured.png" />
     </item>
     
   </channel>

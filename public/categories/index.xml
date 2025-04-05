@@ -2,131 +2,131 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on v1c70r_n00b&#39;$ Blog ⚔︎⛊</title>
-    <link>http://localhost:63915/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on v1c70r_n00b&#39;$ Blog ⚔︎⛊</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>mwaivictor04@gmail.com (Victor Mwai)</managingEditor>
     <webMaster>mwaivictor04@gmail.com (Victor Mwai)</webMaster>
-    <copyright>&amp;copy; 2023 - 2025 𝓱𝐚ĆⓀ𝑒я Victor Mwai. </copyright>
-    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:63915/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023 𝓱𝐚ĆⓀ𝑒я | All rights reserved.</copyright>
+    <lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>OSINT</title>
-      <link>http://localhost:63915/categories/osint/</link>
+      <link>http://localhost:1313/categories/osint/</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/osint/</guid>
+      <guid>http://localhost:1313/categories/osint/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Network Security</title>
-      <link>http://localhost:63915/categories/network-security/</link>
+      <link>http://localhost:1313/categories/network-security/</link>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/network-security/</guid>
+      <guid>http://localhost:1313/categories/network-security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>AD</title>
-      <link>http://localhost:63915/categories/ad/</link>
+      <link>http://localhost:1313/categories/ad/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/ad/</guid>
+      <guid>http://localhost:1313/categories/ad/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Prolabs</title>
-      <link>http://localhost:63915/categories/prolabs/</link>
+      <link>http://localhost:1313/categories/prolabs/</link>
       <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/prolabs/</guid>
+      <guid>http://localhost:1313/categories/prolabs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CTFROOM</title>
-      <link>http://localhost:63915/categories/ctfroom/</link>
+      <link>http://localhost:1313/categories/ctfroom/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/ctfroom/</guid>
+      <guid>http://localhost:1313/categories/ctfroom/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Forensics</title>
-      <link>http://localhost:63915/categories/forensics/</link>
+      <link>http://localhost:1313/categories/forensics/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/forensics/</guid>
+      <guid>http://localhost:1313/categories/forensics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Starting Point</title>
-      <link>http://localhost:63915/categories/starting-point/</link>
+      <link>http://localhost:1313/categories/starting-point/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/starting-point/</guid>
+      <guid>http://localhost:1313/categories/starting-point/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tier2</title>
-      <link>http://localhost:63915/categories/tier2/</link>
+      <link>http://localhost:1313/categories/tier2/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/tier2/</guid>
+      <guid>http://localhost:1313/categories/tier2/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tier1</title>
-      <link>http://localhost:63915/categories/tier1/</link>
+      <link>http://localhost:1313/categories/tier1/</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/tier1/</guid>
+      <guid>http://localhost:1313/categories/tier1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tier0</title>
-      <link>http://localhost:63915/categories/tier0/</link>
+      <link>http://localhost:1313/categories/tier0/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/tier0/</guid>
+      <guid>http://localhost:1313/categories/tier0/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Block Chain</title>
-      <link>http://localhost:63915/categories/block-chain/</link>
+      <link>http://localhost:1313/categories/block-chain/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/block-chain/</guid>
+      <guid>http://localhost:1313/categories/block-chain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Programming</title>
-      <link>http://localhost:63915/categories/programming/</link>
+      <link>http://localhost:1313/categories/programming/</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       <author>mwaivictor04@gmail.com (Victor Mwai)</author>
-      <guid>http://localhost:63915/categories/programming/</guid>
+      <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
       
     </item>
