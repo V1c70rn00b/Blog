@@ -12,7 +12,7 @@ I am not the loudest in the room, nor the fastest on the keyboard. But in the si
 
 I don’t chase vulnerabilities; they reveal themselves to those who understand the language of systems. Firewalls, packets, and encrypted whispers, I listen where others overlook.
 
-I’ve learned that security isn’t just about defense; it’s about knowing where the cracks begin. From compromising the intentionally weak to fortifying the strong, my path is one of understanding, not destruction.
+I have learned that security isn’t just about defense; it’s about knowing where the cracks begin. From compromising the intentionally weak to fortifying the strong, my path is one of understanding, not destruction.
 
 ## ~/Certifications
 
