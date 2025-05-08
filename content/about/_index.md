@@ -45,7 +45,7 @@ I have learned that security isn’t just about defense; it’s about knowing wh
 
 ### Issued by [Zscaler](https://www.linkedin.com/company/zscaler/)
 #### 2025 - 2028
-- 🎯 Zero Trust certified Assosciate
+- 🎯 Zero Trust cyber Assosciate
 
 ### Issued by [Microsoft](https://www.linkedin.com/company/microsoft/)
 #### 2023
