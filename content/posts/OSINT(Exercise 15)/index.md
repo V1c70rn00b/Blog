@@ -73,4 +73,4 @@ With that evidence we can now clearly identify that our tower is as shown below.
 
 ![image.png](image%2010.png)
 
-`Answer: **50°09'42.6"N 6°50'54.0"E**`
+`Answer: 50°09'42.6"N 6°50'54.0"E`
