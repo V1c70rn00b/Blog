@@ -893,7 +893,7 @@ echo "[*] Current file ($filename) type: $filetype"
 
 📦 **Handle Each Compression Type**
 
-### 1. **Gzip**
+1. **Gzip**
 
 ```bash
 *"gzip compressed data"*)
