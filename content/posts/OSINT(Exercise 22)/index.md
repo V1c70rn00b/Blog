@@ -4,7 +4,8 @@ date: 2025-03-24
 description: This is a writeup on OSINT EXERCISE 22 from Sofia Santos' OSINT analysis and exercises.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
 summary: "credit to Sofia Santos" # Here you can write a small summary of the post if neededs
-categories: [OSINT]
+tags: [OSINT]
+categories: [Sofia Santos' OSINT exercises]
 ---
 # Exercise 22
 For this [challenge](https://gralhix.com/list-of-osint-exercises/osint-exercise-022/), we are required to find a partial number plate of the trucks and where the camera is located as indicated in the task briefing below.
