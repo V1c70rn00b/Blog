@@ -8,7 +8,6 @@ tags: [powershell]
 categories: [Underthewire]
 ---
 
-
 ## Century level 0-1
 
 Below is the goal for this challenge, however there is no level 0, we are required to join the Slack channel to get the login details for century level 1 under the start here channel where at the description of the channel, we have the creds for different war games for under the wire.
