@@ -4,7 +4,7 @@ date: 2025-06-10
 description: This is a writeup on century from underthewire wargames.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
 summary: "overthewire wargames bandit series" # Here you can write a small summary of the post if needed
-tags: [Bandit, powershell]
+tags: [powershell]
 categories: [Underthewire]
 ---
 
