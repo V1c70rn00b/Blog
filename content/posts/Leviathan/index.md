@@ -1,9 +1,9 @@
 ---
 title: "overthewire leviathan war games"
-date: 2025-07-29
-description: This is a writeup on bandit from overthewire wargames.
+date: 2025-07-26
+description: This is a writeup on leviathan from overthewire wargames.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
-summary: "overthewire wargames bandit series" # Here you can write a small summary of the post if needed
+summary: "overthewire wargames leviathan series" # Here you can write a small summary of the post if needed
 tags: [leviathan, linux, SSH]
 categories: [Overthewire]
 ---
