@@ -4,7 +4,7 @@ date: 2025-07-26
 description: This is a writeup on krypton from overthewire wargames.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
 summary: "overthewire wargames krypton series" # Here you can write a small summary of the post if needed
-tags: [krypton, linux, SSH]
+tags: [krypton, linux, cryptography]
 categories: [Overthewire]
 ---
 
