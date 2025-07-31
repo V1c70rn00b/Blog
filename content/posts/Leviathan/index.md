@@ -4,7 +4,7 @@ date: 2025-07-26
 description: This is a writeup on leviathan from overthewire wargames.
 draft: false # this section allows the post to be published and be public, is it is set to true the post will not be published.
 summary: "overthewire wargames leviathan series" # Here you can write a small summary of the post if needed
-tags: [leviathan, linux, SSH]
+tags: [leviathan, linux, binary exploitation]
 categories: [Overthewire]
 ---
 
